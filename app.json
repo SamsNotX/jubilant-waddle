@@ -7,7 +7,7 @@
   ],
   "repository": "https://github.com/SamsNotX/jubilant-waddle",
   "success_url": "https://t.me/BotFather",
-  "website": "https://github.com/MaxxRider/Leech-Pro",
+  "website": "https://github.com/SamsNotX/jubilant-waddle",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
